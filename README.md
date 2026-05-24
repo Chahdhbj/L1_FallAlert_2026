@@ -1,7 +1,3 @@
-![FallAlert](actifs/cartes.jpeg)
-
-
-
 # FallAlert — Système de détection de chutes:
 
 FallAlert est un système embarqué de détection de chutes en temps réel,
