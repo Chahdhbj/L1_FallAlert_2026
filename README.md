@@ -66,5 +66,10 @@ L'équipe FallAlert
 
 
 
+
+
+
+
+
 Projet réalisé dans le cadre du module Communication sans fil — Licence 1, 2026
 Encadré par Fabien Ferrero, Julian Roqui et Leo Peyruchat
