@@ -67,6 +67,10 @@ via un système de communication sans fil LoRa.
 ### Email reçu lors d'une chute
 ![Email alerte](assets/email_alerte.jpeg)
 
+## Design 3D de la boite
+
+- [Boite](assets/Boite_FallAlert.stl)
+- [Couvercle](assets/couvercle_FallAlert.stl)
 
 
 ## l'email reçu:
