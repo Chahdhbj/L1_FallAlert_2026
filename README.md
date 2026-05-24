@@ -49,6 +49,26 @@ via un système de communication sans fil LoRa.
 - 'mail envoye lors d'une chute.py' : Script Python d'envoi d'email
 
 
+
+## Photos du projet:
+
+### Cartes
+![Cartes](assets/cartes.jpeg)
+
+### Emetteur
+![Emetteur](assets/emetteur.jpeg)
+
+### Recepteur
+![Recepteur](assets/recepteur.jpeg)
+
+### Buzzer
+![Buzzer](assets/buzzer.jpeg)
+
+### Email reçu lors d'une chute
+![Email alerte](assets/email_alerte.jpeg)
+
+
+
 ## l'email reçu:
 
 Bonjour,
