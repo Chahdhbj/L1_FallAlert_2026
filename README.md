@@ -92,7 +92,7 @@ L'équipe FallAlert
 
 ## Slides de présentation
 
-[Voir les slides](https://github.com/Chahdhbj/L1_FallAlert_2026/raw/main/presentation_FallAlert.pdf)
+[Telecharger les slides](https://github.com/Chahdhbj/L1_FallAlert_2026/raw/main/presentation_FallAlert.pdf)
 
 
 
