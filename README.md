@@ -90,7 +90,9 @@ Merci pour votre vigilance.
 Cordialement,
 L'équipe FallAlert
 
+## Slides de présentation
 
+[Voir les slides](presentation_fallalert.pdf)
 
 
 
