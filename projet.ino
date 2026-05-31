@@ -69,7 +69,7 @@ void loop() {
 
   if (enSurveillance && millis() - tempsPic > DUREE_IMMOBILITE) {
     bool immobile = (acc > 0.8 && acc < 1.2);
-    bool orientationAnormale = (z < 1.0);
+   bool orientationAnormale = (z > 0.5 || z < -0.5);
 
     if (immobile && orientationAnormale) {
       Serial.println("CHUTE CONFIRMÉE - envoi LoRa");
