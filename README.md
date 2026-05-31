@@ -95,7 +95,6 @@ L'équipe FallAlert
 [Telecharger les slides](https://github.com/Chahdhbj/L1_FallAlert_2026/raw/main/presentation_FallAlert.pdf)
 
 
-
 ---
 
 Projet réalisé dans le cadre du module Communication sans fil — Licence 1, 2026
