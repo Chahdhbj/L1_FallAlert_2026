@@ -72,7 +72,7 @@ via un système de communication sans fil LoRa.
 - [Boite](assets/Boite_FallAlert.stl)
 - [Couvercle](assets/couvercle_FallAlert.stl)
 
-## Boite imprimée
+### Boite imprimée
 - [Boite imprimée](assets/boite_imprimée.jpeg)
 
 ## l'email reçu:
